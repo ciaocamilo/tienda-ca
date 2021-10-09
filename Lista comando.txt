@@ -1,0 +1,30 @@
+En Vue.js
+----------
+
+npm install -g @vue/cli
+vue create mi-sitio
+
+npm install axios --save
+npm i vue-router@next --save
+npm install --save vue-sweetalert2
+******************
+npm run serve
+******************
+
+
+En Express
+--------------
+
+npm init --yes
+npm install express --save
+
+npm install -g nodemon
+npm i morgan --save
+npm install cors --save
+npm install --save connect-history-api-fallback
+npm install -D @babel/core @babel/cli @babel/preset-env @babel/node
+npm install mongoose --save
+******************
+npm run devbabel
+******************
+
